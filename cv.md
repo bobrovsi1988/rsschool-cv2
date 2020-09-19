@@ -26,6 +26,7 @@ PHP developer.
 2016 y.
 3. or-media
 Front-end developer JavaScript, React.
+2018 y.
 
 ## Skills
 HTML , CSS, SASS, JS, REACT, PHP, YII, MYSQl.
