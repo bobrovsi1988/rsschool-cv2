@@ -1,7 +1,7 @@
-#Bobrov Sergey 
+# Bobrov Sergey 
 ## Born 30.10.1988 y.
 ![photo Bobrov Sergey](https://sun9-37.userapi.com/IgDsAvyqiuFVzz_yoG5Ch7-23NeMAOwzV6ULSw/kefV2sqRrtk.jpg)
-##Contacts 
+## Contacts 
 1. Phone : 8029-560-36-50
 2. Email:bobrovsi1988@gmail.com
 
